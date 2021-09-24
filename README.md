@@ -7,7 +7,7 @@
 - 💬 Ask me about my plants, my favorite movies, and anything CSS related.
 - ⚡ Fun fact: I know how to play 5 instruments! 🎸🥁🎻 
 <!-- 
-### Connect with me: 
+
 
 ### Languages and Tools:
 
@@ -15,6 +15,8 @@
 ## Recent Activity:
 <!--START_SECTION:activity--> 
 <!--END_SECTION:activity -->
+### Connect with me: 
+[LinkedIn](https://www.linkedin.com/in/reneejvalentine)
 ## Stats:
 
 [![Renee's GitHub stats](https://github-readme-stats.vercel.app/api?username=renjval12)](https://github.com/anuraghazra/github-readme-stats)
