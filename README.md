@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Renee 🖖🏾
+## I'm a Writer, Filmmaker, and Developer!
+- 😄 Pronouns: They/Them/
+- 🔭 I’m currently working on [Tarot Nouveau][https://moodie.netlify.app/]
+- 🌱 I’m currently learning as much as I can about Java & Typescript
+- 👯 I’m looking to collaborate with more Junior to Mid-Level Developers.
+- 💬 Ask me about my plants, my favorite movies, and anything CSS related.
+- ⚡ Fun fact: I know how to play 5 instruments! 🎸🥁🎻 
 
-<!--
-**renjval12/renjval12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me: 
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
