@@ -1,6 +1,6 @@
 ### Hi there, I'm Renee 🖖🏾
 ## I'm a Writer, Filmmaker, and Developer!
-- 😄 Pronouns: They/Them/
+- 😄 Pronouns: They/Them/Homie
 - 🔭 I’m currently working on [Tarot Nouveau][https://moodie.netlify.app/]
 - 🌱 I’m currently learning as much as I can about Java & Typescript
 - 👯 I’m looking to collaborate with more Junior to Mid-Level Developers.
