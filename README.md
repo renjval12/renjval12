@@ -17,18 +17,21 @@
 [<img align="left" alt="Next" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"/>][nextjs]
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>][bootstrap]
 [<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />][figma]
-[<img align="left" width="26" height="26" src="https://www.adobe.com/content/dam/cc/us/en/products/xd/features/ui-kits/XD.svg" alt="Adobe XD">][adobexd]
+[<img align="left" width="26" src="https://www.adobe.com/content/dam/cc/us/en/products/xd/features/ui-kits/XD.svg" alt="Adobe XD">][adobexd]
 [<img align="left" width="26" alt="trello-icon-gradient-blue@2x" src="https://user-images.githubusercontent.com/63140769/140752316-9dedc53a-9f83-4d3f-b857-09167f33127a.png">][trello]
 [<img align="left" alt="Springboot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][springboot]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][express]
 [<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][npm]
-[<img align="left" alt="MongoDB" width="30px" src="https://user-images.githubusercontent.com/63140769/140768743-457e98cb-684e-4afa-8052-d8411d6c7056.png" />][mongodb]
+[<img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/63140769/140768743-457e98cb-684e-4afa-8052-d8411d6c7056.png" />][mongodb]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />][atom]
 [<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
+<br />
+<br />
 <br />
 
 ### Connect with me: 
@@ -61,4 +64,5 @@
 [mysql]: https://github.com/topics/mysql
 [mongodb]: https://www.mongodb.com/
 [vscode]: https://github.com/topics/vscode
+[atom]: https://github.com/topics/atom
 [terminal]: https://github.com/topics/terminal
