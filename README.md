@@ -40,13 +40,6 @@
 ## Stats:
 [![Renee's GitHub stats](https://github-readme-stats.vercel.app/api?username=renjval12)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Recent Activity:
-<!--START_SECTION:activity--> 
-<!--END_SECTION:activity -->
-
-
-
 [website]: https://vladhernandez.dev/
 [linkedin]: https://www.linkedin.com/in/reneejvalentine
 [twitter]: https://twitter.com/reneejvalentine
