@@ -1,7 +1,7 @@
 ## Hi there, I'm Renee 🖖🏾
 ### I'm a Writer, Filmmaker, and Developer!
 - 😄 Pronouns: They/Them/Homie
-- 🔭 I’m currently working on [Media Queery] (https://github.com/renjval12/MediaQueery)
+- 🔭 I’m currently working on [Media Queery](https://github.com/renjval12/MediaQueery)
 - 🌱 I’m currently learning as much as I can about Java & Typescript
 - 👯 I’m looking to collaborate with more Junior to Mid-Level Developers.
 - 💬 Ask me about my plants, my favorite movies, and anything CSS related.
